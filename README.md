@@ -1,7 +1,7 @@
 # codetech-internship-task
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/codtech-bigdata-internship.git
-cd codtech-bigdata-internship
+git clone https://github.com/deepakrao8888/codetech-internship-task.git
+cd codtech-internship-task
 
 # Install PySpark (for Task 1 & 2)
 pip install pyspark
